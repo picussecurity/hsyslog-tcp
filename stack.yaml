@@ -1,11 +1,9 @@
-resolver: lts-9.1
+resolver: lts-10.9
 
 packages:
 - .
 
-extra-deps:
-- hsyslog-4
-- hsyslog-udp-0.1.2
+extra-deps: []
 
 flags: {}
 
